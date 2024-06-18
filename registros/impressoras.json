@@ -1,0 +1,37 @@
+{
+    "Ed_matarazzo": {
+                "110": {
+                    "Nome_Impressora": "SEGES110",
+                    "Nome_Driver": "Lexmark MX520 Series XL",
+                    "Endereco_IP": "10.69.0.103",
+                    "Caminho_Driver": "C:\\MX522eMX622\\LMU03p40.inf",
+                    "Caminho_Driver_Servidor": "C:\\MX522eMX622\\LMU03p40.inf"
+                },
+                "103": {
+                    "Nome_Impressora": "SEGES103",
+                    "Nome_Driver": "Lexmark MX520 Series XL",
+                    "Endereco_IP": "10.69.0.103",
+                    "Caminho_Driver": "C:\\MX522eMX622\\LMU03p40.inf",
+                    "Caminho_Driver_Servidor": "\\\\smgsrv03\\AINFO\\Driver\\Impressoras\\Lexmark\\MX522eMX622"
+                }
+    },
+    "Ed_Jockey": {
+                "Impressora Padrão": {
+                    "Nome_Impressora": "Impressora_Ed_Jockey",
+                    "Nome_Driver": "Driver_Jockey",
+                    "Endereco_IP": "192.168.1.20",
+                    "Caminho_Driver": "/drivers/jockey",
+                    "Caminho_Driver_Servidor": "\\\\servidor\\drivers\\jockey"
+                }
+    },
+    "Arquivo_Municipal": {
+                "Impressora Padrão": {
+                    "Nome_Impressora": "Impressora_Arquivo_Municipal",
+                    "Nome_Driver": "Driver_Arquivo",
+                    "Endereco_IP": "192.168.1.30",
+                    "Caminho_Driver": "/drivers/arquivo",
+                    "Caminho_Driver_Servidor": "\\\\servidor\\drivers\\arquivo"
+                } 
+    }
+  }
+  
